@@ -1,4 +1,4 @@
-## Hey, I'm David 👋. 
+## Hey, I'm Dawid 👋. 
 I live in Copenhagen. I like music, good food, being outside, and coding. 
 
 ### Get In Touch
