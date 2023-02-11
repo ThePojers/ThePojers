@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hey, I'm David. 
+I live in Copenhagen. I like music, good food, being outside, and coding. 
 
-<!--
-**ThePojers/ThePojers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Get In Touch
+<a href="mailto:dawid@perzynski.pl"><img src="https://img.shields.io/badge/Email-A1E8AF?style=for-the-badge&logo=maildotru&logoColor=black"></a> <a href="https://www.linkedin.com/in/dawid-perzynski/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-Here are some ideas to get you started:
+### What I Work With
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=dd1b16"> 
+<img src="https://img.shields.io/badge/Vue-F1DEDE?style=for-the-badge&logo=vuedotjs&logoColor=41B883"> 
+...and many more
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### My Projects
+* <a href="https://chrome.google.com/webstore/detail/bright-spot/mehfmnaefbifgcpbdbkkahmeaeipjlbo">Bright Spot</a> - Google extension productivity tool
+* <a href="https://perzynski.pl/">Perzynski.pl</a> - My portfolio
+* <a href="https://igo-trading.eu/">Igo-trading.eu</a> - First commercial project
+
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThePojers&count_private=true&show_icons=true&theme=dark&hide=issues,contribs)
