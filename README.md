@@ -1,4 +1,4 @@
-## Hey, I'm David. 
+## Hey, I'm David 👋. 
 I live in Copenhagen. I like music, good food, being outside, and coding. 
 
 ### Get In Touch
@@ -11,7 +11,7 @@ I live in Copenhagen. I like music, good food, being outside, and coding.
 
 
 ### My Projects
-* <a href="https://chrome.google.com/webstore/detail/bright-spot/mehfmnaefbifgcpbdbkkahmeaeipjlbo">Bright Spot</a> - Google extension productivity tool
-* <a href="https://perzynski.pl/">Perzynski.pl</a> - My portfolio
-* <a href="https://igo-trading.eu/">Igo-trading.eu</a> - First commercial project
+* <a href="https://chrome.google.com/webstore/detail/bright-spot/mehfmnaefbifgcpbdbkkahmeaeipjlbo">Bright Spot</a> - Google extension productivity tool 🔵
+* <a href="https://perzynski.pl/">Perzynski.pl</a> - My portfolio 🎨
+* <a href="https://igo-trading.eu/">Igo-trading.eu</a> - Very first and sentimental commercial project 💸
 
