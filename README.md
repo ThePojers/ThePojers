@@ -15,4 +15,3 @@ I live in Copenhagen. I like music, good food, being outside, and coding.
 * <a href="https://perzynski.pl/">Perzynski.pl</a> - My portfolio
 * <a href="https://igo-trading.eu/">Igo-trading.eu</a> - First commercial project
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThePojers&count_private=true&show_icons=true&theme=dark&hide=issues,contribs)
