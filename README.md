@@ -10,8 +10,5 @@ I live in Copenhagen. I like music, good food, being outside, and coding.
 ...and many more
 
 
-### My Projects
-* <a href="https://chrome.google.com/webstore/detail/bright-spot/mehfmnaefbifgcpbdbkkahmeaeipjlbo">Bright Spot</a> - Google extension productivity tool 🔵
-* <a href="https://perzynski.pl/">Perzynski.pl</a> - Personal website 🎨
-* <a href="https://igo-trading.eu/">Igo-trading.eu</a> - Very first and sentimental commercial project 💸 
+
 
