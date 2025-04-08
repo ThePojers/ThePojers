@@ -9,6 +9,9 @@ I live in Copenhagen. I like music, good food, being outside, and coding.
 <img src="https://img.shields.io/badge/Vue-F1DEDE?style=for-the-badge&logo=vuedotjs&logoColor=41B883"> 
 ...and many more
 
-
+### My Projects
+* <a href="https://chrome.google.com/webstore/detail/bright-spot/mehfmnaefbifgcpbdbkkahmeaeipjlbo">Bright Spot</a> - Google extension productivity tool 🔵
+* <a href="https://perzynski.pl/">Perzynski.pl</a> - Personal website 🎨
+* <a href="https://igo-trading.eu/">Igo-trading.eu</a> - Very first and sentimental commercial project 💸
 
 
