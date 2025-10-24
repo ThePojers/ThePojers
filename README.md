@@ -14,4 +14,3 @@ I like music, good food, being outside, and coding.
 * <a href="https://perzynski.pl/">Perzynski.pl</a> - Personal website 🎨 
 * <a href="https://igo-trading.eu/">Igo-trading.eu</a> - Very first and sentimental commercial project 💸
 
-
